@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    background:black;
+}
+
+.game {
+
+    border: aquamarine;
+    margin-left: 50%;
+    top: 50;
+    left: 50;
+    
+}
